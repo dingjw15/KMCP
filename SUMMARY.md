@@ -18,19 +18,19 @@
   * 本章习题
 * 第2章  幼儿园多媒体课件素材的获取与处理
   * 学习目标
-  * 2.1 图像素材的获取与处理
+  * [2.1 图像素材的获取与处理](21-tu-xiang-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.1.1图像素材简介
     * 2.1.2图像的获取与处理
     * 2.1.3图像素材的制作要求
-  * 2.2 声音素材的获取与处理
+  * [2.2 声音素材的获取与处理](22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.2.1声音素材简介
     * 2.2.2声音的录制与编辑
     * 2.2.3声音素材的制作要求
-  * 2.3 动画素材的获取与处理
+  * [2.3 动画素材的获取与处理](23-dong-hua-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.3.1动画素材简介
     * 2.3.2动画的获取与处理
     * 2.3.3动画素材的制作要求
-  * 2.4 视频素材的获取与处理
+  * [2.4 视频素材的获取与处理](24-shi-pin-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.4.1视频素材简介
     * 2.4.2视频信息的采集与编辑
     * 2.4.3视频素材的制作要求
@@ -41,15 +41,15 @@
     * 3.1.1 Powerpoint的工作环境及界面
     * 3.1.2 Powerpoint的文档操作
   * 3.2 在Powerpoint课件中添加文字、图像和图形
-    * 3.2.1在课件中添加文字
-    * 3.2.2在课件中添加图像
+    * [3.2.1在课件中添加文字](321zai-ke-jian-zhong-tian-jia-wen-zi.md)
+    * [3.2.2在课件中添加图像](322zai-ke-jian-zhong-tian-jia-tu-xiang.md)
     * 3.2.3在课件中添加图形
   * 3.3 在Powerpoint课件中添加影音和图表
     * 3.3.1在课件中添加影音
     * 3.3.2在课件中添加图表
   * 3.4 Powerpoint课件的美化
-    * 3.4.1课件的色彩搭配
-    * 3.4.2课件的背景设置
+    * [3.4.1课件的色彩搭配](341ke-jian-de-se-cai-da-pei.md)
+    * [3.4.2课件的背景设置](342ke-jian-de-bei-jing-she-zhi.md)
     * 3.4.3课件版式的设置
     * 3.4.4课件主题的调整
     * 3.4.5课件模板的设置
@@ -57,12 +57,12 @@
     * 3.5.1 Powerpoint课件内部动画的设置
     * 3.5.2 Powerpoint课件切换动画的设置
   * 3.6 使用课件中对象产生交互
-    * 3.6.1 使用动作交互
-    * 3.6.2 使用超链接设置交互
+    * [3.6.1 使用动作交互](361-shi-yong-dong-zuo-jiao-hu.md)
+    * [3.6.2 使用超链接设置交互](362-shi-yong-chao-lian-jie-she-zhi-jiao-hu.md)
     * 3.6.3 使用动作按钮交互
   * 3.7 课件中使用菜单和按键产生交互
-    * 3.7.1 使用播放菜单交互
-    * 3.7.2 使用按键交互
+    * [3.7.1 使用播放菜单交互](371-shi-yong-bo-fang-cai-dan-jiao-hu.md)
+    * [3.7.2 使用按键交互](372-shi-yong-an-jian-jiao-hu.md)
   * [3.8 课件中使用触发器产生交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu.md)
     * [3.8.1 使用文字触发器交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu/381-shi-yong-wen-zi-hong-fa-qi-jiao-hu.md)
     * [3.8.2 使用图片触发器交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu/382-shi-yong-tu-pian-hong-fa-qi-jiao-hu.md)
